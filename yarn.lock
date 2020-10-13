@@ -3318,10 +3318,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vis-data@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/vis-data/-/vis-data-7.0.0.tgz#71ff8ec06e4d0b99f1c8cdecfdf97309eb4562cf"
-  integrity sha512-qKpyAQ9UMT0QygLbCulgabKkgfo8aVkuWSqhvEiaah/iy/Dvj17iMFChUU+UIioorWlweXcp5ziXoMLIl7hTAg==
+vis-data@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/vis-data/-/vis-data-7.1.0.tgz#022dc2c4a9afa64c85b59c7465a20e3bdd32a51a"
+  integrity sha512-uWhBJD3NPlQqAWMYZ7P2WHtBeUrnt25vH6WiZwrwTbyv75g58WrzmxQmf1muRLyPeAydWRmuEC+ptGaKUtMKew==
 
 vis-network@8.2.0:
   version "8.2.0"
